@@ -1,1 +1,1 @@
-Hi! 👋 I'm Samuel, a Software Developer @[Tospay](https://www.tospay.net)
+Hi! 👋 I'm Samuel, a Software Developer and UX Designer
