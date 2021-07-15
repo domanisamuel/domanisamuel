@@ -1,1 +1,1 @@
-Hi! 👋 I'm Samuel, a Software Engineer and UI Designer
+Hi! 👋 I'm Samuel, a Software Developer. 
