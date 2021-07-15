@@ -1,6 +1,6 @@
 Hi! 👋 I'm Samuel, 
 - Software Developer, UI Designer 
 
-- JavaScript chef ❤️ 
+- JavaScript Chef ❤️ 
 
 - React | Vue | React Native | Node.js | Typescript
